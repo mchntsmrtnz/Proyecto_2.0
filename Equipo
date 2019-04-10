@@ -1,0 +1,139 @@
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Equipo</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/small-business.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Inicio
+              <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Sobre Nosotros</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Menú</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Sucursales</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Servicios</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Tu Opinión</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="container">
+
+    <!-- Heading Row -->
+    <div class="row align-items-center my-5">
+      <div class="col-lg-7">
+        <img class="img-fluid rounded mb-4 mb-lg-0" src="fondo.jpg" alt="">
+      </div>
+      <!-- /.col-lg-8 -->
+      <div class="col-lg-5">
+        <h1 class="font-weight-light">Trabaja con Nostros</h1>
+        <p>A medida que planeamos crecer, siempre estamos buscando personalidades únicas y animadas para unirse a nuestra familia.</p>
+        <p>Servimos a los mejores Burritos y Margaritas, recién hechos por nuestra gente excepcional. Todos en la familia Benito's Hat lo hacen posible: desde nuestros fabulosos Embajadores hasta nuestros gerentes inspiradores.</p>
+        <p>¡Día tras día, nuestro objetivo es proporcionar a todos la mejor experiencia que puedan tener!</p>
+      </div>
+      <!-- /.col-md-4 -->
+    </div>
+    <!-- /.row -->
+
+    <!-- Call to Action Well -->
+    <div class="card text-white bg-secondary my-5 py-4 text-center">
+      <div class="card-body">
+        <h2 class="text-white m-0">Departamentos</h2>
+      </div>
+    </div>
+
+    <!-- Content Row -->
+    <div class="row">
+      <div class="col-md-4 mb-5">
+        <div class="card h-100">
+          <div class="card-body">
+            <h2 class="card-title">Cocina</h2>
+            <p class="card-text"><em><big>Ofertas de trabajo actuales</big></em><br><br>
+                                          Jefes de turno o sección: Cuando se trabaja en una franja horaria amplia suele ser habitual hacer turnos y nombrar un responsable de cada turno.<br>
+                                          Ayudantes de cocina: Los auxiliares de los cocineros.<br><br>
+           <center> <img src="cocina.jpg" width="265" height="200"> </center>
+          </div>
+        </div>
+      </div>
+      <!-- /.col-md-4 -->
+      <div class="col-md-4 mb-5">
+        <div class="card h-100">
+          <div class="card-body">
+            <h2 class="card-title">Gerencia</h2>
+            <p class="card-text"><em><big>Ofertas de trabajo actuales</big></em><br><br>
+                                 Secretaria: alguién con capacidad de organización.<br>
+                                 Responsable de compras: La misión prinicipal es procurar que no falte producto de la calidad definida y minimizar los costes de consumos.</p><br>
+            <center> <img src="gerencia.jpg" width="265" height="170"> </center>
+          </div>
+        </div>
+      </div>
+      <!-- /.col-md-4 -->
+      <div class="col-md-4 mb-5">
+        <div class="card h-100">
+          <div class="card-body">
+            <h2 class="card-title">Equipo de Sala</h2>
+            <p class="card-text"><em><big>Ofertas de trabajo actuales</big></em><br><br>
+                                         Responsables de turno: La función que desempeña es verla que que trabajen en ese turno lleguen asi como respeten el horario<br>
+                                         Camareros de mesa:Deben tener enfoque comercial y de servicio para cuidar de los clientes, generar la satisfacción y actuar si hay problemas.</p> <br>
+            <center><img src="sala.jpg" width="260" height="180"></center>
+          </div>
+        </div>
+      </div>
+      <!-- /.col-md-4 -->
+
+    </div>
+    <!-- /.row -->
+
+  </div>
+  <!-- /.container -->
+
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-center text-white">Restaurante O Fernando | Anatole France 115, Col.Polanco | Redes Sociales Facebook:@OFernando  Instagram:@O_Fernando  Twitter:@O'Fernando</p>
+      <p class="m-0 text-center text-white">México, Tlaxcala | Teléfono: 2469532180</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+
+
+
+</body></html>
