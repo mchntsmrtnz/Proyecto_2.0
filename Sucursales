@@ -1,0 +1,177 @@
+<html lang="en"><head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Sucursales</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor4/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css4/shop-item.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="file:///E:/Web/Proyecto/FINAL/Inicio.html">Inicio </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Sobre Nosotros</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Menú</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Sucursales</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Servicios</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Trabajos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Tu Opinión</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="container">
+
+    <div class="row">
+
+      <div class="col-lg-3">
+        <h1 class="my-4">Sucursales</h1>
+        <div class="list-group">
+          <a href="#ancla_polanco" class="list-group-item">Polanco</a>
+          <a href="#ancla_condesa" class="list-group-item">Condesa</a>
+          <a href="#ancla_valle" class="list-group-item">Del Valle</a>
+        </div>
+      </div>
+      <!-- /.col-lg-3 -->
+
+      <div class="col-lg-9">
+
+        <div id="ancla_polanco" class="card mt-4">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15050.259554280428!2d-99.20470967923005!3d19.43119707575207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d202036d4843f9%3A0xe4d37732c0d3a976!2sPolanco%2C+Polanco+I+Secc%2C+Ciudad+de+M%C3%A9xico%2C+CDMX!5e0!3m2!1ses!2smx!4v1553608611995" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+          <div class="card-body">
+            <h3 class="card-title"><strong>Polanco</strong></h3>
+            <h4><em>Ubicación</em></h4>
+            <p class="card-text">Anatole France 115, Col.Polanco</p>
+            <p class="card-text">Tel: (246) 593-23-21</p>
+            <p class="card-text">Lun a Sab de 7:00 am a 12:00 am</p>
+            <p class="card-text">Dom de 7:00 am a 9:00 pm</p>
+            <span class="text-warning">★ ★ ★ ★ ☆</span>
+            4 estrellas
+          </div>
+        </div>
+        <!-- /.card -->
+
+        <div class="card card-outline-secondary my-4">
+          <div class="card-header">
+            Criticas
+          </div>
+          <div class="card-body">
+            <p>Un clásico de la buena restauración presente en Polanco. Buen servicio pese a que suele estar lleno si llegaras tarde a desayunar. Platillos bien presentados, muy sabrosos y en la proporción adecuada para satisfacer plenamente. Hermosa casa, bien estilizada al estilo del pintor francés -del que alegremente llevan su nombre.</p>
+            <small class="text-muted">Posted by Anonymous on 03/01/17</small>
+            <hr>
+            <p>El lugar es bonito, los platillos ricos, de precios promedio. El capitán de meseros en ambos casos ha sido muy atento y es quien nos ha brindado buena atención</p>
+            <small class="text-muted">Posted by Anonymous on 27/03/18</small>
+            <hr>
+            <p>Un lugar muy tranquilo para platicar con amigos, familia o con tu pareja, el lugar muy amplio, con terraza para poder disfrutar un buen rato a gusto. La comida deliciosa, el pan dulce de piezas grandes para compartir.</p>
+            <small class="text-muted">Posted by Anonymous on 04/10/17</small>
+          </div>
+        </div>
+        <!-- /.card -->
+        <div id="ancla_condesa" class="card mt-4">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7525.865063347609!2d-99.18046147736175!3d19.415320866332774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4489e635e3%3A0xed1c076e8bc9b8e7!2sCondesa%2C+Ciudad+de+M%C3%A9xico%2C+CDMX!5e0!3m2!1ses!2smx!4v1553608672645" width="100%" height="430" frameborder="0" scroll="no"></iframe>
+          <div class="card-body">
+            <h3 class="card-title"><strong>Condesa</strong></h3>
+            <h4><em>Ubicación</em></h4>
+            <p class="card-text">Amsterdam 260, Col.Condesa</p>
+            <p class="card-text">Tel: (246) 7834-09-82 , (222) 926-36-38</p>
+            <p class="card-text">Lun a Sab de 7:30 am a 12:00 am</p>
+            <p class="card-text">Dom de 7:30 am a 10:00 pm</p>
+            <span class="text-warning">★ ★ ★ ★ ★</span>
+            5 estrellas
+          </div>
+        </div>
+        <!-- /.card -->
+
+        <div class="card card-outline-secondary my-4">
+          <div class="card-header">
+            Criticas
+          </div>
+          <div class="card-body">
+            <p>El lugar es bastante bueno, la comida es rica y el servicio es muy agradable, tiene un ambiente muy agradable. Los precios son un poquito elevados para la calidad de los alimentos, aunque no diría que muy caros. Lo recomiendo ampliamente para ir en grupo.</p>
+            <small class="text-muted">Posted by Anonymous on 03/01/17</small>
+            <hr>
+            <p>La experiencia es agradable. Tiene distintos ambientes un primer piso al aire libre, un segundo piso al aire libre y otro techado. La decoración está muy buena. La atención por parte de los meseros muy buena y la comida muy rica. Cuenta con una tienda gourmet si es lo que andas buscando.</p>
+            <small class="text-muted">Posted by Anonymous on 27/03/18</small>
+            <hr>
+            <p>Es un lugar agradable, la arquitectura de esta casa antigua que alberga este restaurante es formidable. Lugar cómodo bien atendido su menú es exquisito, sin olvidar su sabroso y fresco pan de casa.</p>
+            <small class="text-muted">Posted by Anonymous on 04/10/17</small>
+          </div>
+        </div>
+
+        <div id="ancla_valle" class="card mt-4">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30111.9102112638!2d-99.270521606624!3d19.36963864959832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d200c41f6ecbc5%3A0x617650eef53e5be4!2sSanta+Fe%2C+Zedec+Sta+F%C3%A9%2C+Ciudad+de+M%C3%A9xico%2C+CDMX!5e0!3m2!1ses!2smx!4v1553608920816" width="100%" height="430" frameborder="0" scroll="no"></iframe>
+          <div class="card-body">
+            <h3 class="card-title"><strong>Del Valle</strong></h3>
+            <h4><em>Ubicación</em></h4>
+            <p class="card-text">Pasea de los Laureles, Col.Santa Fé</p>
+            <p class="card-text">Tel: Tel: (222) 683-16-02 , (246) 793-32-28</p>
+            <p class="card-text">Lun a Vie de 7:30 am a 11:00 pm</p>
+            <p class="card-text">Sab y Dom de 8:00 am a 11:00 pm</p>
+            <span class="text-warning">★ ★ ★ ★ ★</span>
+            5 estrellas
+          </div>
+        </div>
+        <!-- /.card -->
+
+        <div class="card card-outline-secondary my-4">
+          <div class="card-header">
+            Criticas
+          </div>
+          <div class="card-body">
+            <p>El desayuno sensacional, las conchas deliciosas, como en pocos lugares. La carta del desayuno muy completa, aunque considero que es caro en comparación con otros lugares de igual calidad</p>
+            <small class="text-muted">Posted by Anonymous on 03/01/17</small>
+          </div>
+        </div>
+      </div>
+      <!-- /.col-lg-9 -->
+
+    </div>
+
+  </div>
+  <!-- /.container -->
+
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-center text-white">Copyright © Your Website 2019</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+
+
+
+</body></html>
