@@ -1,0 +1,142 @@
+<html lang="en"><head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Banquetes</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor5/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css5/scrolling-nav.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">BANQUETES</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">Paquete 1</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#services">Paquete 2</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#contact">Paquete 3</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#t4">Paquete 4</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <header class="bg-primary text-white">
+    <div class="container text-center">
+      <h1>Servicio a tu residencia</h1>
+      <p class="lead">Ofrecemos una cantidad de 4 menús a elegir para nuestro servicio</p>
+    </div>
+  </header>
+
+  <section id="about">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <font color="#20B82E"><h2>Menú 1</h2></font>
+          <ul>
+            <li>Sopa de fideo seco con cama de frijol</li> 
+            <li>Lomito de cerdo con salsa de ciruela pasa o Filete de róbalo en costra de pepita de calabaza al pipián rojo</li> 
+            <li>Corazón de filete con queso brie</li>
+            <li>Café americano</li>
+            <li>Pastel mil hojas</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="services" class="bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <font color="#20B82E"><h2>Menú 2</h2></font>
+          <ul>
+            <li>Sopa de tortilla</li>
+             <li>Pollo al horno con salsa de chabacano y estragón o Filete de róbalo a los 3 chiles o Corazón de filete a la mostaza</li>
+            <li>Café americano</li>
+            <li>Pastel choco nuez</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <font color="20B82E"><h2>Menú 3</h2></font>
+          <ul>
+            <li>Crema de queso roquefort al chipotle</li>
+            <li>Pechuga de pollo rellena de queso de cabra con salsa pasilla al gratín ó Corazón de filete con salsa de champiñones, ostiones y rajas de poblanos ó Filete de salmón en costra de 3 chiles con arroz al vapor</li>
+            <li>Café americano</li>
+            <li>Pastel de piñón</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="t4" class="bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 mx-auto">
+          <font color="#20B82E"><h2>Menú 4</h2></font>
+          <ul>
+            <li>Fusilli Dolce vita (con espárragos y camarones)</li>
+            <li>1⁄4 Pato al horno con salsa de arándanos ó filete de róbalo con salsa de mango ó corazón de filete Chemita</li>
+            <li>Café americano</li>
+            <li>Pastel de fresas con crema</li><br>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <center><font size="4"> <a href="">Volver</a></font></center>
+  </section>
+
+
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-center text-white">Restaurante O Fernando | Anatole France 115, Col.Polanco | Redes Sociales Facebook:@OFernando  Instagram:@O_Fernando  Twitter:@O'Fernando</p>
+      <p class="m-0 text-center text-white">México, Tlaxcala | Teléfono: 2469532180</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor5/jquery/jquery.min.js"></script>
+  <script src="vendor5/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor5/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom JavaScript for this theme -->
+  <script src="js/scrolling-nav.js"></script>
+
+
+
+
+</body></html>
