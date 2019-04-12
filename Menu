@@ -1,0 +1,307 @@
+<html lang="en"><head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Menú</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor4/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css4/shop-item.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+         <li class="nav-item">
+            <a class="nav-link" href="file:///E:/Web/Proyecto/FINAL/Inicio.html">Inicio </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Sobre Nosotros</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Menú</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Sucursales</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Servicios</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Trabajos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Tu Opinión</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="container">
+
+    <div class="row">
+
+      <div class="col-lg-3">
+        <h1 class="my-4">Menú</h1>
+        <div class="list-group">
+          <a href="#ancla_desayuno" class="list-group-item">Desayunos</a>
+          <a href="#ancla_entradas" class="list-group-item">Entradas/Ensaladas</a>
+          <a href="#ancla_comidas" class="list-group-item">Comida</a>
+          <a href="#ancla_bebidas" class="list-group-item">Bebida</a>
+          <a href="#ancla_vinos" class="list-group-item">Vinos</a>
+        </div>
+      </div>
+      <!-- /.col-lg-3 -->
+
+      <div class="col-lg-9">
+
+        <div id="ancla_desayuno" class="card mt-4">
+          <img class="card-img-top img-fluid" src="des.jpg" alt="">
+          <div class="card-body">
+            <h3 class="card-title">Desayunos</h3>
+          </div>
+        </div>
+        <!-- /.card -->
+
+        <div class="card card-outline-secondary my-4">
+          <div class="card-header">
+            Desayunos de la casa
+          </div>
+          <div class="card-body">
+            <p>Huevos “Matisse” Huevos colorines (granos de elote, jitomate, calabacita y queso panela) </p>
+            <hr>
+            <p>Huevos libaneses (revueltos con queso shanklish)</p>
+            <hr>
+            <p>Huevos oaxaqueños con salsa de chile pasilla Huevos ahogados(servidos con rajas, salsa roja y crema, servidos en cazuela de barro)</p>
+            <hr>
+            <hr>
+            <p>Omelette de hierbas finas y queso de cabra Omelette de claras de huevo (relleno de nopales y queso panela)</p>
+            <hr>
+            <hr>
+            <p>Enfrijoladas con pollo</p>
+            <hr>
+            <hr>
+            <p>Enchiladas poblanas</p>
+            <hr>
+            <p> Chilaquiles con pollo</p>
+            <hr>
+            <p>Chalupitas poblanas con carne de res y salsa verde</p>
+          </div>
+          <div class="card-header">
+            Jugos y Fruta
+          </div>
+          <div class="card-body">
+            <p>Naranja, zanahoria, toronja Zapote, mango, mandarina</p>
+            <hr>
+            <p>Energético (piña, apio, nopal y naranja)</p>
+            <hr>
+            <p>Vampiro (betabel, zanahoria y apio)</p>
+            <hr>
+            <p>Orden de fruta</p>
+          </div>
+        </div>
+
+               <div id="ancla_entradas" class="card mt-4">
+          <img class="card-img-top img-fluid" src="ent.jpg" alt="">
+          <div class="card-body">
+            <h3 class="card-title">Entradas y Ensaladas</h3>
+          </div>
+        </div>
+        <!-- /.card -->
+
+        <div class="card card-outline-secondary my-4">
+          <div class="card-header">
+             Entradas
+          </div>
+          <div class="card-body">
+            <p>Quesadillas Lacandonas (3 pzas) (con tortilla de plátano, rellenas de queso panela con mole) </p>
+            <hr>
+            <hr>
+            <p>Queso camembert con zarzamora al horno (con mayonesa de paprika, aguacate, ajonjoli y salsa verde)</p>
+            <hr>
+            <p>Queso panela a la parrilla con chiles toreados</p>
+          </div>
+          <div class="card-header">
+             Ensaladas
+          </div>
+          <div class="card-body">
+            <p>Ensalada Ceniza (rodajas de queso de cabra, albahaca, aguacate y aceite de olivo)</p>
+            <hr>
+            <p>Ensalada Violeta (lechuga, jitomate y queso de cabra con aderezo de zarzamora)</p>
+            <hr>
+            <p>Ensalada César (con pechuga de pollo a la parrilla)</p>
+            <hr>
+            <p>Ensalada de higos (variedad de lechugas frescas, queso de cabra, nuez, pera, higo natural y aderezo de tomillo con miel)</p>
+          </div>
+        </div>
+        
+                <div id="ancla_comidas" class="card mt-4">
+          <img class="card-img-top img-fluid" src="com.jpg" alt="">
+          <div class="card-body">
+            <h3 class="card-title">Comida</h3>
+          </div>
+        </div>
+        <!-- /.card -->
+
+        <div class="card card-outline-secondary my-4">
+          <div class="card-header">
+            Sopas
+          </div>
+          <div class="card-body">
+            <p>Consomé de pollo con tallarines, pollo y verduras </p>
+            <hr>
+            <hr>
+            <p>Matze ball (bola de pan ácimo)</p>
+            <hr><hr>
+            <p>Sopa borscht (fría)</p>
+          </div>
+          <div class="card-header">
+            Pescados
+          </div>
+          <div class="card-body">
+            <p>Filete de róbalo a los tres chiles Filete de róbalo almendrado con salsa de 4 quesos</p>
+            <hr>
+            <p>Filete de atún con costra de ajonjolí y salsa de frutos rojos con chipotle</p>
+            <hr>
+            <p>Filete de salmón en costra de 3 chiles c/guarnición de arroz</p>
+          </div>
+          <div class="card-header">
+            Carnes
+          </div>
+          <div class="card-body">
+            <p>Milanesa Viena Carne asada a la tampiqueña (filete abierto, con enchilada, rajas y guacamole)</p>
+            <hr><hr>
+            <p>Corazón de filete Aztlán (relleno de queso de cabra, bañado con salsa pasilla) </p>
+            <hr><hr>
+            <p>Corazón de filete al jerez con setas Pierna de ternera al horno</p>
+            <hr>
+            <p>Goulash de ternera a la húngara con knödel</p>
+          </div>
+        </div>
+
+                <div id="ancla_bebidas" class="card mt-4">
+          <img class="card-img-top img-fluid" src="beb.jpg" alt="">
+          <div class="card-body">
+            <h3 class="card-title">Bebidas</h3>
+          </div>
+        </div>
+        <!-- /.card -->
+
+        <div class="card card-outline-secondary my-4">
+          <div class="card-header">
+            Bebidas
+          </div>
+          <div class="card-body">
+            <p>Agua embotellada </p>
+            <hr>
+            <p>Limonada o Naranjada</p>
+            <hr>
+            <p>Refresco</p>
+          </div>
+         <div class="card-header">
+            De la fuente
+          </div>
+          <div class="card-body">
+            <p>Café(Americano, Capichino, Latte, Vienés, Expresso)</p>
+            <hr>
+            <p>Malteadas( Chocolate, Fresa, Vainilla)</p>
+            <hr>
+            <p>Euro Te(Los mejores Tés y Tisanas del mundo)</p>
+          </div>
+        <div class="card-header">
+            Cervezas
+          </div>
+          <div class="card-body">
+            <p>Bohemia</p>
+            <hr>
+            <p>Heineken</p>
+            <hr>
+            <p>Tempus <strong>reserva especial</strong></p>
+            <hr>
+            <p>XX (Ámbar premier, Lager)</p>
+            <hr><hr>
+            <p>Micheladas</p>
+          </div>
+        </div>
+
+        <div id="ancla_vinos" class="card mt-4">
+          <img class="card-img-top img-fluid" src="vin.jpg" alt="">
+          <div class="card-body">
+            <h3 class="card-title">Vinos</h3>
+          </div>
+        </div>
+        <!-- /.card -->
+
+        <div class="card card-outline-secondary my-4">
+          <div class="card-header">
+            Champañe
+          </div>
+          <div class="card-body">
+            <p>Moët & Chandon </p>
+            <hr>
+            <p>Chardonnay-Pinot Meunier-Pinot Noir</p>
+          </div>
+          <div class="card-header">
+            Vinos Espumosos
+          </div>
+          <div class="card-body">
+            <p>Proseco</p>
+            <hr>
+            <p>Glera</p>
+            <hr>
+            <p>Veneto</p>
+          </div>
+          <div class="card-header">
+            Vinos Blancos
+          </div>
+          <div class="card-body">
+            <p>Torre de moreira</p>
+            <hr>
+            <p>Albariño</p>
+            <hr><hr>
+            <p>Rias Baixas</p>
+            <hr>
+            <p>Dulcino</p>
+            <hr>
+            <p>Moscato Bianco</p>
+          </div>
+        </div> 
+        <!-- /.card -->
+
+      </div>
+      <!-- /.col-lg-9 -->
+
+    </div>
+
+  </div>
+  <!-- /.container -->
+
+  <!-- Footer -->
+  <footer class="py-5 bg-dark">
+    <div class="container">
+      <p class="m-0 text-center text-white ">Restaurante O Fernando | Anatole France 115, Col.Polanco | Redes Sociales Facebook:@OFernando  Instagram:@O_Fernando  Twitter:@O'Fernando</p>
+      <p class="m-0 text-center text-white ">México, Tlaxcala | Teléfono: 2469532180</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+
+
+
+</body></html>
